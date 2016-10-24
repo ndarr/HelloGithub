@@ -5,7 +5,7 @@ public class Main {
         System.out.println("Hello Github");
         int a, b ;
         a = 1;
-        b = 2;
+        b = 3;
         int c = a + b;
 
         System.out.println("Ergebnis = "+Integer.toString(c));
